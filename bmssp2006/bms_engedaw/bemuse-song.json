@@ -1,0 +1,60 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "89d2a9d4fa78aaf5d5f98009b7abf549",
+      "info": {
+        "title": "뎱긒�_긂",
+        "artist": "migikacha",
+        "genre": "grill",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 5
+      },
+      "noteCount": 240,
+      "bpm": {
+        "init": 151,
+        "min": 151,
+        "median": 151,
+        "max": 151
+      },
+      "duration": 93.37748344370861,
+      "scratch": true,
+      "keys": "5K",
+      "file": "enge.bms"
+    },
+    {
+      "md5": "b1728ac2498478e289998febdfd8cf66",
+      "info": {
+        "title": "뎱뎱긒�_긂",
+        "artist": "migikacha",
+        "genre": "grill",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 5
+      },
+      "noteCount": 196,
+      "bpm": {
+        "init": 151,
+        "min": 151,
+        "median": 151,
+        "max": 151
+      },
+      "duration": 93.37748344370861,
+      "scratch": true,
+      "keys": "10K",
+      "file": "enge_dp.bms"
+    }
+  ],
+  "title": "뎱긒�_긂",
+  "artist": "migikacha",
+  "genre": "grill",
+  "bpm": 151,
+  "replaygain": "-3.38 dB",
+  "preview_offset": 1,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "9",
+  "readme": ""
+}

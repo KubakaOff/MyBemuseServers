@@ -1,0 +1,112 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "ae943e280f57e43d571e168f7603e862",
+      "info": {
+        "title": "ゲルニカの壁",
+        "artist": "LOKI",
+        "genre": "ETHEREAL BREAKS",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 7
+      },
+      "noteCount": 811,
+      "bpm": {
+        "init": 134,
+        "min": 134,
+        "median": 134,
+        "max": 134
+      },
+      "duration": 135,
+      "scratch": true,
+      "keys": "7K",
+      "file": "guernica.bme"
+    },
+    {
+      "md5": "43a6a0fd2d58b62122f7928cd709d0dd",
+      "info": {
+        "title": "ゲルニカの壁",
+        "artist": "LOKI",
+        "genre": "ETHEREAL BREAKS",
+        "subtitles": [
+          "10KEYS"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 6
+      },
+      "noteCount": 351,
+      "bpm": {
+        "init": 134,
+        "min": 134,
+        "median": 134,
+        "max": 134
+      },
+      "duration": 135,
+      "scratch": true,
+      "keys": "10K",
+      "file": "guernica[10].bms"
+    },
+    {
+      "md5": "2c2a99d9bc047f9ca802b9ad76419645",
+      "info": {
+        "title": "ゲルニカの壁",
+        "artist": "LOKI",
+        "genre": "ETHEREAL BREAKS",
+        "subtitles": [
+          "EASY7"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 4
+      },
+      "noteCount": 458,
+      "bpm": {
+        "init": 134,
+        "min": 134,
+        "median": 134,
+        "max": 134
+      },
+      "duration": 135,
+      "scratch": true,
+      "keys": "7K",
+      "file": "guernica[e7].bme"
+    },
+    {
+      "md5": "ac5bf0ffd46c7cde62b6d206bbc48904",
+      "info": {
+        "title": "ゲルニカの壁",
+        "artist": "LOKI",
+        "genre": "ETHEREAL BREAKS",
+        "subtitles": [
+          "HARD7"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 9
+      },
+      "noteCount": 1037,
+      "bpm": {
+        "init": 134,
+        "min": 134,
+        "median": 134,
+        "max": 134
+      },
+      "duration": 135,
+      "scratch": true,
+      "keys": "7K",
+      "file": "guernica[h7].bme"
+    }
+  ],
+  "title": "ゲルニカの壁",
+  "artist": "LOKI",
+  "genre": "ETHEREAL BREAKS",
+  "bpm": 134,
+  "replaygain": "-8.36 dB",
+  "preview_offset": 2,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "17",
+  "readme": ""
+}

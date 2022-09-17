@@ -1,0 +1,62 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "1778f795281fa3368f94f01ccd8f472f",
+      "info": {
+        "title": "ボクはスクラッチ名人",
+        "artist": "DJ ボクッ娘",
+        "genre": "自慢",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 3
+      },
+      "noteCount": 191,
+      "bpm": {
+        "init": 110,
+        "min": 110,
+        "median": 110,
+        "max": 110
+      },
+      "duration": 63.92727272727273,
+      "scratch": true,
+      "keys": "5K",
+      "file": "boku.bms"
+    },
+    {
+      "md5": "3999a911a3cb4d5d6bd704f74e254dc4",
+      "info": {
+        "title": "ボクはスクラッチ名人",
+        "artist": "DJ ボクッ娘",
+        "genre": "自慢",
+        "subtitles": [
+          "DP"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 5
+      },
+      "noteCount": 163,
+      "bpm": {
+        "init": 110,
+        "min": 110,
+        "median": 110,
+        "max": 110
+      },
+      "duration": 63.92045454545455,
+      "scratch": true,
+      "keys": "10K",
+      "file": "boku_dp.bms"
+    }
+  ],
+  "title": "ボクはスクラッチ名人",
+  "artist": "DJ ボクッ娘",
+  "genre": "自慢",
+  "bpm": 110,
+  "replaygain": "-8.46 dB",
+  "preview_offset": 1,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "10",
+  "readme": ""
+}

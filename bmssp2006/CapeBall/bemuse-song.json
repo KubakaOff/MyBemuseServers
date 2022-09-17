@@ -1,0 +1,64 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "bdf267ec042eabfe2e0166f755e66fa9",
+      "info": {
+        "title": "CapeBall",
+        "artist": "tarolabo",
+        "genre": "[Techno]",
+        "subtitles": [
+          "HARD"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 8
+      },
+      "noteCount": 774,
+      "bpm": {
+        "init": 140,
+        "min": 140,
+        "median": 140,
+        "max": 140
+      },
+      "duration": 140.57142857142856,
+      "scratch": true,
+      "keys": "5K",
+      "file": "CapeBall_01.bms"
+    },
+    {
+      "md5": "66c9625c00704111735ac028b01dfaf9",
+      "info": {
+        "title": "CapeBall",
+        "artist": "tarolabo",
+        "genre": "[Techno]",
+        "subtitles": [
+          "NORMAL"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 4
+      },
+      "noteCount": 528,
+      "bpm": {
+        "init": 140,
+        "min": 140,
+        "median": 140,
+        "max": 140
+      },
+      "duration": 140.57142857142856,
+      "scratch": true,
+      "keys": "5K",
+      "file": "CapeBall_02.bms"
+    }
+  ],
+  "title": "CapeBall",
+  "artist": "tarolabo",
+  "genre": "[Techno]",
+  "bpm": 140,
+  "replaygain": "-12.86 dB",
+  "preview_offset": 2,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "11",
+  "readme": ""
+}

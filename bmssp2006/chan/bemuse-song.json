@@ -1,0 +1,60 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "dda264fe9732a8492fb2da0d0e5fbde0",
+      "info": {
+        "title": "깋긙긆갋�`긿깛긨깑",
+        "artist": "morigasigeru",
+        "genre": "HIP HOP",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 5
+      },
+      "noteCount": 159,
+      "bpm": {
+        "init": 95,
+        "min": 95,
+        "median": 95,
+        "max": 95
+      },
+      "duration": 86.88157894736842,
+      "scratch": true,
+      "keys": "10K",
+      "file": "radio-dp.bms"
+    },
+    {
+      "md5": "d1052c060f45a1468bc5a93669dd5a40",
+      "info": {
+        "title": "깋긙긆갋�`긿깛긨깑",
+        "artist": "morigasigeru",
+        "genre": "HIP HOP",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 3
+      },
+      "noteCount": 199,
+      "bpm": {
+        "init": 95,
+        "min": 95,
+        "median": 95,
+        "max": 95
+      },
+      "duration": 86.90526315789474,
+      "scratch": true,
+      "keys": "5K",
+      "file": "radio.bms"
+    }
+  ],
+  "title": "깋긙긆갋�`긿깛긨깑",
+  "artist": "morigasigeru",
+  "genre": "HIP HOP",
+  "bpm": 95,
+  "replaygain": "-6.47 dB",
+  "preview_offset": 5,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "13",
+  "readme": ""
+}

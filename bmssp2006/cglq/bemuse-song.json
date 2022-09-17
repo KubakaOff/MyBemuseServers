@@ -1,0 +1,83 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "de4997177bfc3804e114b1fb02308000",
+      "info": {
+        "title": "CG [↑Cut,Gravity↓] bms edit",
+        "artist": "エルリ鳥",
+        "genre": "duckweed (for beginner)",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 3
+      },
+      "noteCount": 458,
+      "bpm": {
+        "init": 120,
+        "min": 120,
+        "median": 120,
+        "max": 120
+      },
+      "duration": 152,
+      "scratch": true,
+      "keys": "5K",
+      "file": "beginnerbgasyuusei.bms"
+    },
+    {
+      "md5": "d6b1c21e37578eabd8cb0c0a266dcf35",
+      "info": {
+        "title": "CG [↑Cut,Gravity↓] bms edit",
+        "artist": "エルリ鳥 / obj.Fall",
+        "genre": "duckweed",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 6
+      },
+      "noteCount": 425,
+      "bpm": {
+        "init": 120,
+        "min": 120,
+        "median": 120,
+        "max": 120
+      },
+      "duration": 152,
+      "scratch": true,
+      "keys": "10K",
+      "file": "cg_dp_fbgasyuusei.bms"
+    },
+    {
+      "md5": "9ee70e01c4c51118140219aef6307021",
+      "info": {
+        "title": "CG [↑Cut,Gravity↓] bms edit",
+        "artist": "エルリ鳥",
+        "genre": "duckweed",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 4
+      },
+      "noteCount": 675,
+      "bpm": {
+        "init": 120,
+        "min": 120,
+        "median": 120,
+        "max": 120
+      },
+      "duration": 152,
+      "scratch": true,
+      "keys": "5K",
+      "file": "normalbgasyuusei.bms"
+    }
+  ],
+  "title": "CG [↑Cut,Gravity↓] bms edit",
+  "artist": "エルリ鳥",
+  "genre": "duckweed (for beginner)",
+  "bpm": 120,
+  "replaygain": "-5.4 dB",
+  "preview_offset": 2,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "12",
+  "readme": ""
+}
