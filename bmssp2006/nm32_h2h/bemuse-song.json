@@ -1,0 +1,89 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "65b62c05de413eb212dfbdfd8d619a6a",
+      "info": {
+        "title": "Heart To Heart -collect sky blue-",
+        "artist": "ねこみみ魔法使い / 広瀬まどか",
+        "genre": "shuffle pop'n",
+        "subtitles": [
+          "light"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 5
+      },
+      "noteCount": 528,
+      "bpm": {
+        "init": 210,
+        "min": 210,
+        "median": 210,
+        "max": 210
+      },
+      "duration": 106.76190476190477,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_nm32_21.bme"
+    },
+    {
+      "md5": "6391df18f263af19428d89daaeec5e50",
+      "info": {
+        "title": "Heart To Heart",
+        "artist": "ねこみみ魔法使い / 広瀬まどか",
+        "genre": "shuffle pop'n",
+        "subtitles": [
+          "collect sky blue"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 8
+      },
+      "noteCount": 818,
+      "bpm": {
+        "init": 210,
+        "min": 210,
+        "median": 210,
+        "max": 210
+      },
+      "duration": 106.76190476190477,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_nm32_22.bme"
+    },
+    {
+      "md5": "a2cf1bb25df59a5cedb3e2dcb8636ca7",
+      "info": {
+        "title": "Heart To Heart -collect sky blue-",
+        "artist": "ねこみみ魔法使い / 広瀬まどか",
+        "genre": "shuffle pop'n",
+        "subtitles": [
+          "another"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 9
+      },
+      "noteCount": 1000,
+      "bpm": {
+        "init": 210,
+        "min": 210,
+        "median": 210,
+        "max": 210
+      },
+      "duration": 106.76190476190477,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_nm32_23.bme"
+    }
+  ],
+  "title": "Heart To Heart -collect sky blue-",
+  "artist": "ねこみみ魔法使い / 広瀬まどか",
+  "genre": "shuffle pop'n",
+  "bpm": 210,
+  "replaygain": "-8.4 dB",
+  "preview_offset": 1,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "23",
+  "readme": ""
+}

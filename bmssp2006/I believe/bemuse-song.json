@@ -1,0 +1,89 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "a100d5605ef47f77498248ca99592c17",
+      "info": {
+        "title": "I believe",
+        "artist": "Gun string",
+        "genre": "blow",
+        "subtitles": [
+          "HYPER"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 10
+      },
+      "noteCount": 1250,
+      "bpm": {
+        "init": 100,
+        "min": 100,
+        "median": 183,
+        "max": 183
+      },
+      "duration": 146.60983606557377,
+      "scratch": true,
+      "keys": "7K",
+      "file": "sp1_hyper.bme"
+    },
+    {
+      "md5": "55761ce5c34cb981c3c3493d8a370557",
+      "info": {
+        "title": "I believe",
+        "artist": "Gun string",
+        "genre": "Mixture",
+        "subtitles": [
+          "ANOTHER"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 12
+      },
+      "noteCount": 1611,
+      "bpm": {
+        "init": 100,
+        "min": 100,
+        "median": 183,
+        "max": 183
+      },
+      "duration": 146.60983606557377,
+      "scratch": true,
+      "keys": "7K",
+      "file": "sp2_another.bme"
+    },
+    {
+      "md5": "11531d798b28fde661fe9fde7dcdc79e",
+      "info": {
+        "title": "I believe",
+        "artist": "Gun string",
+        "genre": "blow",
+        "subtitles": [
+          "NORMAL"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 5
+      },
+      "noteCount": 859,
+      "bpm": {
+        "init": 100,
+        "min": 100,
+        "median": 183,
+        "max": 183
+      },
+      "duration": 146.60983606557377,
+      "scratch": true,
+      "keys": "7K",
+      "file": "sp3_normal.bme"
+    }
+  ],
+  "title": "I believe",
+  "artist": "Gun string",
+  "genre": "blow",
+  "bpm": 183,
+  "replaygain": "-15.86 dB",
+  "preview_offset": 2,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "18",
+  "readme": ""
+}

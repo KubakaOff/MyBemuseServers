@@ -1,0 +1,37 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "bc36945a965c7ea750651637d299278b",
+      "info": {
+        "title": "MIZUKI",
+        "artist": "Lapis Lazul",
+        "genre": "Piano Solo",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 3
+      },
+      "noteCount": 162,
+      "bpm": {
+        "init": 114,
+        "min": 60,
+        "median": 110,
+        "max": 114
+      },
+      "duration": 86.3643913822268,
+      "scratch": false,
+      "keys": "7K",
+      "file": "MIZUKI.bme"
+    }
+  ],
+  "title": "MIZUKI",
+  "artist": "Lapis Lazul",
+  "genre": "Piano Solo",
+  "bpm": 110,
+  "replaygain": "-6 dB",
+  "preview_offset": 3,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "21",
+  "readme": ""
+}

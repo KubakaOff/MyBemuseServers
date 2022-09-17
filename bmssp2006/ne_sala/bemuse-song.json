@@ -1,0 +1,89 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "d5f6482faddb6a2709a8d555a835bd37",
+      "info": {
+        "title": "サラトマティック",
+        "artist": "猫の人",
+        "genre": "FC Maniacs",
+        "subtitles": [
+          "normal"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 5
+      },
+      "noteCount": 569,
+      "bpm": {
+        "init": 136,
+        "min": 136,
+        "median": 136,
+        "max": 136
+      },
+      "duration": 114.59558823529412,
+      "scratch": true,
+      "keys": "5K",
+      "file": "ne_sala1.bms"
+    },
+    {
+      "md5": "1620fee1a68bbac78a0219b2975c5f28",
+      "info": {
+        "title": "サラトマティック",
+        "artist": "猫の人",
+        "genre": "FC Maniacs",
+        "subtitles": [
+          "light7"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 4
+      },
+      "noteCount": 484,
+      "bpm": {
+        "init": 136,
+        "min": 136,
+        "median": 136,
+        "max": 136
+      },
+      "duration": 114.59558823529412,
+      "scratch": true,
+      "keys": "7K",
+      "file": "ne_sala2.bme"
+    },
+    {
+      "md5": "ab38648aa675887a4215e4f155f834d7",
+      "info": {
+        "title": "サラトマティック",
+        "artist": "猫の人",
+        "genre": "FC Maniacs",
+        "subtitles": [
+          "7keys"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 7
+      },
+      "noteCount": 712,
+      "bpm": {
+        "init": 136,
+        "min": 136,
+        "median": 136,
+        "max": 136
+      },
+      "duration": 114.59558823529412,
+      "scratch": true,
+      "keys": "7K",
+      "file": "ne_sala3.bme"
+    }
+  ],
+  "title": "サラトマティック",
+  "artist": "猫の人",
+  "genre": "FC Maniacs",
+  "bpm": 136,
+  "replaygain": "-9.93 dB",
+  "preview_offset": 1,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "22",
+  "readme": ""
+}

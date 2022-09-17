@@ -1,0 +1,152 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "450997e98805bd641906fd560eeb7395",
+      "info": {
+        "title": "marine snow",
+        "artist": "LaValse",
+        "genre": "TRANCE AMBIENT",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 6
+      },
+      "noteCount": 397,
+      "bpm": {
+        "init": 145,
+        "min": 145,
+        "median": 145,
+        "max": 145
+      },
+      "duration": 112.96551724137932,
+      "scratch": true,
+      "keys": "10K",
+      "file": "_10.bms"
+    },
+    {
+      "md5": "030b1df5af6ee44b52a7dc522063b8c9",
+      "info": {
+        "title": "marine snow",
+        "artist": "LaValse",
+        "genre": "TRANCE AMBIENT",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 10
+      },
+      "noteCount": 463,
+      "bpm": {
+        "init": 145,
+        "min": 145,
+        "median": 145,
+        "max": 145
+      },
+      "duration": 112.96551724137932,
+      "scratch": true,
+      "keys": "14K",
+      "file": "_14.bme"
+    },
+    {
+      "md5": "69a14b0f41f41ef0eb7b3f2998de4e03",
+      "info": {
+        "title": "marine snow",
+        "artist": "LaValse",
+        "genre": "TRANCE AMBIENT (ANOTHER)",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 12
+      },
+      "noteCount": 654,
+      "bpm": {
+        "init": 145,
+        "min": 145,
+        "median": 145,
+        "max": 145
+      },
+      "duration": 112.96551724137932,
+      "scratch": true,
+      "keys": "14K",
+      "file": "_14aho.bme"
+    },
+    {
+      "md5": "18396f621c5560bbc44a24d626b67ae2",
+      "info": {
+        "title": "marine snow",
+        "artist": "LaValse",
+        "genre": "TRANCE AMBIENT",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 6
+      },
+      "noteCount": 544,
+      "bpm": {
+        "init": 145,
+        "min": 145,
+        "median": 145,
+        "max": 145
+      },
+      "duration": 112.96551724137932,
+      "scratch": true,
+      "keys": "5K",
+      "file": "_5.bms"
+    },
+    {
+      "md5": "412b4a5a4bb668afdf76b8c696d552b7",
+      "info": {
+        "title": "marine snow",
+        "artist": "LaValse",
+        "genre": "TRANCE AMBIENT",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 8
+      },
+      "noteCount": 702,
+      "bpm": {
+        "init": 145,
+        "min": 145,
+        "median": 145,
+        "max": 145
+      },
+      "duration": 112.96551724137932,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_7.bme"
+    },
+    {
+      "md5": "e6989cd8b24af03d12c3b9b37d65d87c",
+      "info": {
+        "title": "marine snow",
+        "artist": "LaValse",
+        "genre": "TRANCE AMBIENT (ANOTHER)",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 12
+      },
+      "noteCount": 1123,
+      "bpm": {
+        "init": 145,
+        "min": 145,
+        "median": 145,
+        "max": 145
+      },
+      "duration": 112.96551724137932,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_7aho.bme"
+    }
+  ],
+  "title": "marine snow",
+  "artist": "LaValse",
+  "genre": "TRANCE AMBIENT",
+  "bpm": 145,
+  "replaygain": "-5.03 dB",
+  "preview_offset": 13,
+  "preview_url": "bemuse-data/preview.mp3",
+  "readme": "",
+  "bmssearch_id": "1"
+}

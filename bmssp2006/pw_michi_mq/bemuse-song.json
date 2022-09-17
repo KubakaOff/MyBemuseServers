@@ -1,0 +1,267 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "095b47bd362228e5eb1558231e53c514",
+      "info": {
+        "title": "道しるべ",
+        "artist": "pastel white / ケモノ☆ラバーズ",
+        "genre": "starry pop (10key) [BGA-FULL ver]",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 6
+      },
+      "noteCount": 273,
+      "bpm": {
+        "init": 114,
+        "min": 114,
+        "median": 148,
+        "max": 148
+      },
+      "duration": 113.88955058627248,
+      "scratch": true,
+      "keys": "10K",
+      "file": "KML_pw_michi_10.bms"
+    },
+    {
+      "md5": "62d14f9e8c4260cf140b82dfae2c1302",
+      "info": {
+        "title": "道しるべ",
+        "artist": "pastel white / ケモノ☆ラバーズ",
+        "genre": "starry pop (another10) [BGA-FULL ver]",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 9
+      },
+      "noteCount": 444,
+      "bpm": {
+        "init": 114,
+        "min": 114,
+        "median": 148,
+        "max": 148
+      },
+      "duration": 113.88955058627248,
+      "scratch": true,
+      "keys": "10K",
+      "file": "KML_pw_michi_10a.bms"
+    },
+    {
+      "md5": "0f391a3bae1cb94ca1eb38dd36a40220",
+      "info": {
+        "title": "道しるべ",
+        "artist": "pastel white / ケモノ☆ラバーズ",
+        "genre": "starry pop (basic10) [BGA-FULL ver]",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 3
+      },
+      "noteCount": 161,
+      "bpm": {
+        "init": 114,
+        "min": 114,
+        "median": 148,
+        "max": 148
+      },
+      "duration": 113.88955058627248,
+      "scratch": true,
+      "keys": "10K",
+      "file": "KML_pw_michi_10b.bms"
+    },
+    {
+      "md5": "a80b81c7c44f6d16c4b702deb4297d87",
+      "info": {
+        "title": "道しるべ",
+        "artist": "pastel white / ケモノ☆ラバーズ",
+        "genre": "starry pop (14key) [BGA-FULL ver]",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 7
+      },
+      "noteCount": 343,
+      "bpm": {
+        "init": 114,
+        "min": 114,
+        "median": 148,
+        "max": 148
+      },
+      "duration": 113.88955058627248,
+      "scratch": true,
+      "keys": "14K",
+      "file": "KML_pw_michi_14.bme"
+    },
+    {
+      "md5": "74cfd1bcbbf0cf2563599c923861b2da",
+      "info": {
+        "title": "道しるべ",
+        "artist": "pastel white / ケモノ☆ラバーズ",
+        "genre": "starry pop (light14) [BGA-FULL ver]",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 5
+      },
+      "noteCount": 200,
+      "bpm": {
+        "init": 114,
+        "min": 114,
+        "median": 148,
+        "max": 148
+      },
+      "duration": 113.88955058627248,
+      "scratch": true,
+      "keys": "14K",
+      "file": "KML_pw_michi_14l.bme"
+    },
+    {
+      "md5": "0e6b19e51dc99dd9f5746a217955d4b1",
+      "info": {
+        "title": "道しるべ",
+        "artist": "pastel white / ケモノ☆ラバーズ",
+        "genre": "starry pop (5key) [BGA-FULL ver]",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 4
+      },
+      "noteCount": 400,
+      "bpm": {
+        "init": 114,
+        "min": 114,
+        "median": 148,
+        "max": 148
+      },
+      "duration": 113.88955058627248,
+      "scratch": true,
+      "keys": "5K",
+      "file": "KML_pw_michi_5.bms"
+    },
+    {
+      "md5": "2944ba82eb8f1ed54aeabfa5f933a53d",
+      "info": {
+        "title": "道しるべ",
+        "artist": "pastel white / ケモノ☆ラバーズ",
+        "genre": "starry pop (another5) [BGA-FULL ver]",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 7
+      },
+      "noteCount": 667,
+      "bpm": {
+        "init": 114,
+        "min": 114,
+        "median": 148,
+        "max": 148
+      },
+      "duration": 113.88955058627248,
+      "scratch": true,
+      "keys": "5K",
+      "file": "KML_pw_michi_5a.bms"
+    },
+    {
+      "md5": "ff629d10487d0b5aac7f17f7e9208302",
+      "info": {
+        "title": "道しるべ",
+        "artist": "pastel white / ケモノ☆ラバーズ",
+        "genre": "starry pop (basic5) [BGA-FULL ver]",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 2
+      },
+      "noteCount": 240,
+      "bpm": {
+        "init": 114,
+        "min": 114,
+        "median": 148,
+        "max": 148
+      },
+      "duration": 113.88955058627248,
+      "scratch": true,
+      "keys": "5K",
+      "file": "KML_pw_michi_5b.bms"
+    },
+    {
+      "md5": "6bd0ca869cb4627f86dd8a05b7e3cb00",
+      "info": {
+        "title": "道しるべ",
+        "artist": "pastel white / ケモノ☆ラバーズ",
+        "genre": "starry pop (7key) [BGA-FULL ver]",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 6
+      },
+      "noteCount": 570,
+      "bpm": {
+        "init": 114,
+        "min": 114,
+        "median": 148,
+        "max": 148
+      },
+      "duration": 113.88955058627248,
+      "scratch": true,
+      "keys": "7K",
+      "file": "KML_pw_michi_7.bme"
+    },
+    {
+      "md5": "cc8a6fdc22f668fd3fee0e071809b666",
+      "info": {
+        "title": "道しるべ",
+        "artist": "pastel white / ケモノ☆ラバーズ",
+        "genre": "starry pop (another7) [BGA-FULL ver]",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 8
+      },
+      "noteCount": 777,
+      "bpm": {
+        "init": 114,
+        "min": 114,
+        "median": 148,
+        "max": 148
+      },
+      "duration": 113.88955058627248,
+      "scratch": true,
+      "keys": "7K",
+      "file": "KML_pw_michi_7a.bme"
+    },
+    {
+      "md5": "a9c73721a478b28a7920f984c1ecc47a",
+      "info": {
+        "title": "道しるべ",
+        "artist": "pastel white / ケモノ☆ラバーズ",
+        "genre": "starry pop (light7) [BGA-FULL ver]",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 3
+      },
+      "noteCount": 351,
+      "bpm": {
+        "init": 114,
+        "min": 114,
+        "median": 148,
+        "max": 148
+      },
+      "duration": 113.88955058627248,
+      "scratch": true,
+      "keys": "7K",
+      "file": "KML_pw_michi_7l.bme"
+    }
+  ],
+  "title": "道しるべ",
+  "artist": "pastel white / ケモノ☆ラバーズ",
+  "genre": "starry pop (10key) [BGA-FULL ver]",
+  "bpm": 148,
+  "replaygain": "-10.28 dB",
+  "preview_offset": 1,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "24",
+  "readme": ""
+}

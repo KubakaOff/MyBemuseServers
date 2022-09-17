@@ -1,0 +1,131 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "6f2a1840721c860631fed2ead23ea070",
+      "info": {
+        "title": "Machine 4(crash job with UuWa! mix) 5",
+        "artist": "Mona",
+        "genre": "Minimaru",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 6
+      },
+      "noteCount": 741,
+      "bpm": {
+        "init": 153,
+        "min": 153,
+        "median": 153,
+        "max": 153
+      },
+      "duration": 97.25490196078432,
+      "scratch": true,
+      "keys": "5K",
+      "file": "uuwa5.bms"
+    },
+    {
+      "md5": "b45da13bc9965fd7aade5f9c7f9423f6",
+      "info": {
+        "title": "Machine 4(crash job with UuWa! mix) 5E",
+        "artist": "Mona",
+        "genre": "Minimaru",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 3
+      },
+      "noteCount": 489,
+      "bpm": {
+        "init": 153,
+        "min": 153,
+        "median": 153,
+        "max": 153
+      },
+      "duration": 97.25490196078432,
+      "scratch": true,
+      "keys": "5K",
+      "file": "uuwa5e.bms"
+    },
+    {
+      "md5": "6755d87385d345357d338c9eb08377d6",
+      "info": {
+        "title": "Machine 4",
+        "artist": "Mona",
+        "genre": "Minimaru",
+        "subtitles": [
+          "crash job with UuWa! mix"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 7
+      },
+      "noteCount": 777,
+      "bpm": {
+        "init": 153,
+        "min": 153,
+        "median": 153,
+        "max": 153
+      },
+      "duration": 97.25490196078432,
+      "scratch": true,
+      "keys": "7K",
+      "file": "uuwa7.bme"
+    },
+    {
+      "md5": "3c3314f68831da9305a41acad085a81b",
+      "info": {
+        "title": "Machine 4(crash job with UuWa! mix) A",
+        "artist": "Mona",
+        "genre": "Minimaru",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 11
+      },
+      "noteCount": 1143,
+      "bpm": {
+        "init": 153,
+        "min": 153,
+        "median": 153,
+        "max": 153
+      },
+      "duration": 97.25490196078432,
+      "scratch": true,
+      "keys": "7K",
+      "file": "uuwa7a.bme"
+    },
+    {
+      "md5": "2ab1f4a4e62e90cbbc20eb7946278214",
+      "info": {
+        "title": "Machine 4(crash job with UuWa! mix) N",
+        "artist": "Mona",
+        "genre": "Minimaru",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 4
+      },
+      "noteCount": 542,
+      "bpm": {
+        "init": 153,
+        "min": 153,
+        "median": 153,
+        "max": 153
+      },
+      "duration": 97.25490196078432,
+      "scratch": true,
+      "keys": "7K",
+      "file": "uuwa7n.bme"
+    }
+  ],
+  "title": "Machine 4(crash job with UuWa! mix) 5",
+  "artist": "Mona",
+  "genre": "Minimaru",
+  "bpm": 153,
+  "replaygain": "-11.06 dB",
+  "preview_offset": 1,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "19",
+  "readme": ""
+}

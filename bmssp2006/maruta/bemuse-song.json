@@ -1,0 +1,87 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "87ca1eb96524048be190a69a678ed228",
+      "info": {
+        "title": "ま/る/た",
+        "artist": "λロ（手作り風）",
+        "genre": "小宇宙",
+        "subtitles": [
+          "ANOTHER"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 9
+      },
+      "noteCount": 1137,
+      "bpm": {
+        "init": 148,
+        "min": 148,
+        "median": 148,
+        "max": 148
+      },
+      "duration": 127.7027027027027,
+      "scratch": true,
+      "keys": "7K",
+      "file": "maruta.(A).bms"
+    },
+    {
+      "md5": "fbb685d80e97ace432226d119b4f0ae8",
+      "info": {
+        "title": "ま/る/た",
+        "artist": "λロ（手作り風）",
+        "genre": "小宇宙",
+        "subtitles": [
+          "LIGHT"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 3
+      },
+      "noteCount": 430,
+      "bpm": {
+        "init": 148,
+        "min": 148,
+        "median": 148,
+        "max": 148
+      },
+      "duration": 127.7027027027027,
+      "scratch": true,
+      "keys": "7K",
+      "file": "maruta.(L).bms"
+    },
+    {
+      "md5": "9a052de045fa0d8f6cdf84a9dfeb4216",
+      "info": {
+        "title": "ま/る/た",
+        "artist": "λロ（手作り風）",
+        "genre": "小宇宙",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 6
+      },
+      "noteCount": 596,
+      "bpm": {
+        "init": 148,
+        "min": 148,
+        "median": 148,
+        "max": 148
+      },
+      "duration": 127.7027027027027,
+      "scratch": true,
+      "keys": "7K",
+      "file": "maruta.bms"
+    }
+  ],
+  "title": "ま/る/た",
+  "artist": "λロ（手作り風）",
+  "genre": "小宇宙",
+  "bpm": 148,
+  "replaygain": "-7.32 dB",
+  "preview_offset": 1,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "20",
+  "readme": ""
+}
