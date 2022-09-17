@@ -1,0 +1,106 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "4a3b9b65e702879db25e6ee15338c4e6",
+      "info": {
+        "title": "The Old Man and Deep Blue Ocean",
+        "artist": "小室哲哉　（BGA：鈴木あも）",
+        "genre": "lounge",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 5
+      },
+      "noteCount": 524,
+      "bpm": {
+        "init": 126,
+        "min": 126,
+        "median": 126,
+        "max": 126
+      },
+      "duration": 150.47619047619048,
+      "scratch": true,
+      "keys": "5K",
+      "file": "csen_tomdbo_5.bms"
+    },
+    {
+      "md5": "e905f76caa348a3850debfc180c5ed7f",
+      "info": {
+        "title": "The Old Man and Deep Blue Ocean",
+        "artist": "小室哲哉 （BGA：鈴木あも）",
+        "genre": "lounge",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 8
+      },
+      "noteCount": 663,
+      "bpm": {
+        "init": 126,
+        "min": 126,
+        "median": 126,
+        "max": 126
+      },
+      "duration": 150.47619047619048,
+      "scratch": true,
+      "keys": "7K",
+      "file": "csen_tomdbo_7.bme"
+    },
+    {
+      "md5": "e29297f9f29f62231811547ad02a8686",
+      "info": {
+        "title": "The Old Man and Deep Blue Ocean",
+        "artist": "小室哲哉",
+        "genre": "lounge",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 5
+      },
+      "noteCount": 524,
+      "bpm": {
+        "init": 126,
+        "min": 126,
+        "median": 126,
+        "max": 126
+      },
+      "duration": 150.47619047619048,
+      "scratch": true,
+      "keys": "5K",
+      "file": "TOM_and_DBO_5.bms"
+    },
+    {
+      "md5": "6e932621a1094e36e602ef7374d1385b",
+      "info": {
+        "title": "The Old Man and Deep Blue Ocean",
+        "artist": "小室哲哉",
+        "genre": "lounge",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 8
+      },
+      "noteCount": 663,
+      "bpm": {
+        "init": 126,
+        "min": 126,
+        "median": 126,
+        "max": 126
+      },
+      "duration": 150.47619047619048,
+      "scratch": true,
+      "keys": "7K",
+      "file": "TOM_and_DBO_7.bme"
+    }
+  ],
+  "title": "The Old Man and Deep Blue Ocean",
+  "artist": "小室哲哉　（BGA：鈴木あも）",
+  "genre": "lounge",
+  "bpm": 126,
+  "replaygain": "-8.37 dB",
+  "preview_offset": 1,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "3",
+  "readme": ""
+}

@@ -1,0 +1,139 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "c7c1f0cf5893baa65ef89d4bc7bf227e",
+      "info": {
+        "title": "mints -club mix-",
+        "artist": "Yamajet feat. jeli",
+        "genre": "HOUSE",
+        "subtitles": [
+          "5keys BEGINNER"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 1
+      },
+      "noteCount": 120,
+      "bpm": {
+        "init": 132,
+        "min": 132,
+        "median": 132,
+        "max": 132
+      },
+      "duration": 102.49999999999999,
+      "scratch": true,
+      "keys": "5K",
+      "file": "mints_clubmix_5b.bms"
+    },
+    {
+      "md5": "4a5dc407fa582be1b7f4a07d009efe2b",
+      "info": {
+        "title": "mints -club mix-",
+        "artist": "Yamajet feat. jeli",
+        "genre": "HOUSE",
+        "subtitles": [
+          "5keys HARD"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 5
+      },
+      "noteCount": 376,
+      "bpm": {
+        "init": 132,
+        "min": 132,
+        "median": 132,
+        "max": 132
+      },
+      "duration": 102.49999999999999,
+      "scratch": true,
+      "keys": "5K",
+      "file": "mints_clubmix_5h.bms"
+    },
+    {
+      "md5": "1f533c0aba30557c355a15b950d123dd",
+      "info": {
+        "title": "mints -club mix-",
+        "artist": "Yamajet feat. jeli",
+        "genre": "HOUSE",
+        "subtitles": [
+          "5keys NORMAL"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 4
+      },
+      "noteCount": 256,
+      "bpm": {
+        "init": 132,
+        "min": 132,
+        "median": 132,
+        "max": 132
+      },
+      "duration": 102.49999999999999,
+      "scratch": true,
+      "keys": "5K",
+      "file": "mints_clubmix_5n.bms"
+    },
+    {
+      "md5": "292e67d3a3570097776270b04fd11534",
+      "info": {
+        "title": "mints -club mix-",
+        "artist": "Yamajet feat. jeli",
+        "genre": "HOUSE",
+        "subtitles": [
+          "ANOTHER7"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 7
+      },
+      "noteCount": 611,
+      "bpm": {
+        "init": 132,
+        "min": 132,
+        "median": 132,
+        "max": 132
+      },
+      "duration": 102.49999999999999,
+      "scratch": true,
+      "keys": "7K",
+      "file": "mints_clubmix_7a.bme"
+    },
+    {
+      "md5": "0a2143253180835a2c4eb55cdbe8ce97",
+      "info": {
+        "title": "mints -club mix-",
+        "artist": "Yamajet feat. jeli",
+        "genre": "HOUSE",
+        "subtitles": [
+          "7keys"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 6
+      },
+      "noteCount": 431,
+      "bpm": {
+        "init": 132,
+        "min": 132,
+        "median": 132,
+        "max": 132
+      },
+      "duration": 102.49999999999999,
+      "scratch": true,
+      "keys": "7K",
+      "file": "mints_clubmix_7n.bme"
+    }
+  ],
+  "title": "mints -club mix-",
+  "artist": "Yamajet feat. jeli",
+  "genre": "HOUSE",
+  "bpm": 132,
+  "replaygain": "-4.4 dB",
+  "preview_offset": 0,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "35",
+  "readme": ""
+}
