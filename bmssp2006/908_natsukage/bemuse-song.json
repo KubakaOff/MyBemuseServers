@@ -1,0 +1,106 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "184a8a663d2179feb1ace7f383a5c46b",
+      "info": {
+        "title": "natsukage",
+        "artist": "908",
+        "genre": "techno",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 7
+      },
+      "noteCount": 434,
+      "bpm": {
+        "init": 143,
+        "min": 143,
+        "median": 143,
+        "max": 143
+      },
+      "duration": 122.0979020979021,
+      "scratch": true,
+      "keys": "10K",
+      "file": "908_natsukage_10_7.bms"
+    },
+    {
+      "md5": "def63c0d1c10563ef78652c3fe51c796",
+      "info": {
+        "title": "natsukage",
+        "artist": "908",
+        "genre": "techno",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 9
+      },
+      "noteCount": 604,
+      "bpm": {
+        "init": 143,
+        "min": 143,
+        "median": 143,
+        "max": 143
+      },
+      "duration": 122.0979020979021,
+      "scratch": true,
+      "keys": "10K",
+      "file": "908_natsukage_10_9.bms"
+    },
+    {
+      "md5": "a3cbe61e52afd26186bf2dfa02db8e59",
+      "info": {
+        "title": "natsukage",
+        "artist": "908",
+        "genre": "techno",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 4
+      },
+      "noteCount": 418,
+      "bpm": {
+        "init": 143,
+        "min": 143,
+        "median": 143,
+        "max": 143
+      },
+      "duration": 122.0979020979021,
+      "scratch": true,
+      "keys": "5K",
+      "file": "908_natsukage_5_4.bms"
+    },
+    {
+      "md5": "a9cce8ebe3ea63e1bac72be42ed74b6e",
+      "info": {
+        "title": "natsukage",
+        "artist": "908",
+        "genre": "techno",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 8
+      },
+      "noteCount": 691,
+      "bpm": {
+        "init": 143,
+        "min": 143,
+        "median": 143,
+        "max": 143
+      },
+      "duration": 122.0979020979021,
+      "scratch": true,
+      "keys": "5K",
+      "file": "908_natsukage_5_8.bms"
+    }
+  ],
+  "title": "natsukage",
+  "artist": "908",
+  "genre": "techno",
+  "bpm": 143,
+  "replaygain": "-7.67 dB",
+  "preview_offset": 1,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "6",
+  "readme": ""
+}

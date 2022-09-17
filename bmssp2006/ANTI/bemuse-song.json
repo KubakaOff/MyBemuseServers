@@ -1,0 +1,62 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "dd8048209298a5eff8a39e4cc975fe66",
+      "info": {
+        "title": "anti",
+        "artist": "SUKE underground",
+        "genre": "MINIMAL",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 7
+      },
+      "noteCount": 1048,
+      "bpm": {
+        "init": 148,
+        "min": 148,
+        "median": 148,
+        "max": 148
+      },
+      "duration": 136.2162162162162,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_anti.bms"
+    },
+    {
+      "md5": "ee442b961a9ef3ef0beb520aea48b88a",
+      "info": {
+        "title": "anti",
+        "artist": "SUKE underground / obj.Fall",
+        "genre": "MINIMAL",
+        "subtitles": [
+          "5KEYS"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 5
+      },
+      "noteCount": 622,
+      "bpm": {
+        "init": 148,
+        "min": 148,
+        "median": 148,
+        "max": 148
+      },
+      "duration": 136.2162162162162,
+      "scratch": true,
+      "keys": "5K",
+      "file": "_anti5_made_by_fall.bms"
+    }
+  ],
+  "title": "anti",
+  "artist": "SUKE underground",
+  "genre": "MINIMAL",
+  "bpm": 148,
+  "replaygain": "-11.37 dB",
+  "preview_offset": 1,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "8",
+  "readme": ""
+}

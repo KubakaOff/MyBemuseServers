@@ -1,0 +1,189 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "99a1dda1dfa1e8556fe489c44de35293",
+      "info": {
+        "title": "supersoulsimulator",
+        "artist": "Yamajet",
+        "genre": "FILTER HOUSE",
+        "subtitles": [
+          "BEGINNER"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 2
+      },
+      "noteCount": 173,
+      "bpm": {
+        "init": 128,
+        "min": 128,
+        "median": 128,
+        "max": 128
+      },
+      "duration": 91.875,
+      "scratch": true,
+      "keys": "5K",
+      "file": "yamajet-supersoulsimulator-1p0.bms"
+    },
+    {
+      "md5": "18ae3691a1a79fe0d1af8c49e81ed117",
+      "info": {
+        "title": "supersoulsimulator",
+        "artist": "Yamajet",
+        "genre": "FILTER HOUSE",
+        "subtitles": [
+          "NORMAL"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 6
+      },
+      "noteCount": 353,
+      "bpm": {
+        "init": 128,
+        "min": 128,
+        "median": 128,
+        "max": 128
+      },
+      "duration": 91.875,
+      "scratch": true,
+      "keys": "5K",
+      "file": "yamajet-supersoulsimulator-1p1.bms"
+    },
+    {
+      "md5": "7cb5dcdba5cc9295146637f86b1c7b18",
+      "info": {
+        "title": "supersoulsimulator",
+        "artist": "Yamajet",
+        "genre": "FILTER HOUSE",
+        "subtitles": [
+          "HARD"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 6
+      },
+      "noteCount": 429,
+      "bpm": {
+        "init": 128,
+        "min": 128,
+        "median": 128,
+        "max": 128
+      },
+      "duration": 91.875,
+      "scratch": true,
+      "keys": "5K",
+      "file": "yamajet-supersoulsimulator-1p2.bms"
+    },
+    {
+      "md5": "7d925b3dc0a6d35d9857adb479d11810",
+      "info": {
+        "title": "supersoulsimulator",
+        "artist": "Yamajet",
+        "genre": "FILTER HOUSE",
+        "subtitles": [
+          "ANOTHER"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 8
+      },
+      "noteCount": 565,
+      "bpm": {
+        "init": 128,
+        "min": 128,
+        "median": 128,
+        "max": 128
+      },
+      "duration": 91.875,
+      "scratch": true,
+      "keys": "5K",
+      "file": "yamajet-supersoulsimulator-1p3.bms"
+    },
+    {
+      "md5": "2391f7b6121cb18acd6d6fb71c54003a",
+      "info": {
+        "title": "supersoulsimulator",
+        "artist": "Yamajet / Febreze",
+        "genre": "FILTER HOUSE",
+        "subtitles": [
+          "DP NORMAL"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 5
+      },
+      "noteCount": 199,
+      "bpm": {
+        "init": 128,
+        "min": 128,
+        "median": 128,
+        "max": 128
+      },
+      "duration": 91.875,
+      "scratch": true,
+      "keys": "10K",
+      "file": "yamajet-supersoulsimulator-3p1.bms"
+    },
+    {
+      "md5": "ca4e552737571ccb473d6ecbf67da0b2",
+      "info": {
+        "title": "supersoulsimulator",
+        "artist": "Yamajet",
+        "genre": "FILTER HOUSE",
+        "subtitles": [
+          "DP HARD"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 7
+      },
+      "noteCount": 225,
+      "bpm": {
+        "init": 128,
+        "min": 128,
+        "median": 128,
+        "max": 128
+      },
+      "duration": 91.875,
+      "scratch": true,
+      "keys": "10K",
+      "file": "yamajet-supersoulsimulator-3p2.bms"
+    },
+    {
+      "md5": "35971dd0e324f9fd750f9c0ea3fb687b",
+      "info": {
+        "title": "supersoulsimulator",
+        "artist": "Yamajet / Eleven",
+        "genre": "FILTER HOUSE",
+        "subtitles": [
+          "DP ANOTHER"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 9
+      },
+      "noteCount": 389,
+      "bpm": {
+        "init": 128,
+        "min": 128,
+        "median": 128,
+        "max": 128
+      },
+      "duration": 93.8671875,
+      "scratch": true,
+      "keys": "10K",
+      "file": "yamajet-supersoulsimulator-3p3.bms"
+    }
+  ],
+  "title": "supersoulsimulator",
+  "artist": "Yamajet",
+  "genre": "FILTER HOUSE",
+  "bpm": 128,
+  "replaygain": "-7.89 dB",
+  "preview_offset": 1,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "4",
+  "readme": ""
+}

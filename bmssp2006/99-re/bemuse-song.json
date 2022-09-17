@@ -1,0 +1,60 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "b18fda5d408bbfc6893837647f6ebf13",
+      "info": {
+        "title": "99db (DJ HARdbEAT Remix) BGA+",
+        "artist": "DJ BEATCONTROLLER mixed. DJ HARdbEAT aka AQUA & REONA feat. vj BIZNOT",
+        "genre": "Hard Techno",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 6
+      },
+      "noteCount": 1384,
+      "bpm": {
+        "init": 144,
+        "min": 144,
+        "median": 144,
+        "max": 144
+      },
+      "duration": 210.10416666666669,
+      "scratch": true,
+      "keys": "5K",
+      "file": "a.bms"
+    },
+    {
+      "md5": "daf57dccb83f015d8ee768b8cefcd0f4",
+      "info": {
+        "title": "99db (DJ HARdbEAT Remix) BGA-",
+        "artist": "DJ BEATCONTROLLER mixed. DJ HARdbEAT aka AQUA & REONA",
+        "genre": "Hard Techno",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 6
+      },
+      "noteCount": 1384,
+      "bpm": {
+        "init": 144,
+        "min": 144,
+        "median": 144,
+        "max": 144
+      },
+      "duration": 210.10416666666669,
+      "scratch": true,
+      "keys": "5K",
+      "file": "b.bms"
+    }
+  ],
+  "title": "99db (DJ HARdbEAT Remix) BGA+",
+  "artist": "DJ BEATCONTROLLER mixed. DJ HARdbEAT aka AQUA & REONA feat. vj BIZNOT",
+  "genre": "Hard Techno",
+  "bpm": 144,
+  "replaygain": "-11.26 dB",
+  "preview_offset": 1,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "5",
+  "readme": ""
+}

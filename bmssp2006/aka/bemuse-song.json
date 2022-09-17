@@ -1,0 +1,64 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "db98b119ce9caa3bbf7cfb55a121d262",
+      "info": {
+        "title": "赤頭巾の歌",
+        "artist": "瀧島",
+        "genre": "Gizi-Reggae",
+        "subtitles": [
+          "Reggae Mix"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 6
+      },
+      "noteCount": 566,
+      "bpm": {
+        "init": 93,
+        "min": 93,
+        "median": 93,
+        "max": 93
+      },
+      "duration": 121.18279569892474,
+      "scratch": true,
+      "keys": "7K",
+      "file": "aka.bme"
+    },
+    {
+      "md5": "5ceaef7af1951259a95b57c927f3ca85",
+      "info": {
+        "title": "赤頭巾の歌",
+        "artist": "瀧島",
+        "genre": "Gizi-Reggae",
+        "subtitles": [
+          "Reggae Mix"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 5
+      },
+      "noteCount": 455,
+      "bpm": {
+        "init": 93,
+        "min": 93,
+        "median": 93,
+        "max": 93
+      },
+      "duration": 121.18279569892474,
+      "scratch": true,
+      "keys": "5K",
+      "file": "aka.bms"
+    }
+  ],
+  "title": "赤頭巾の歌",
+  "artist": "瀧島",
+  "genre": "Gizi-Reggae",
+  "bpm": 93,
+  "replaygain": "-12.5 dB",
+  "preview_offset": 10,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "7",
+  "readme": ""
+}
