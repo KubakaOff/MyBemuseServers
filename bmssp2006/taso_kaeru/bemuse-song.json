@@ -1,0 +1,37 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "1dfe88257b84064e6ad6d6545862fa18",
+      "info": {
+        "title": "かえるのがっしょう remix",
+        "artist": "Riutaso",
+        "genre": "NO GENRE",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 2
+      },
+      "noteCount": 166,
+      "bpm": {
+        "init": 85,
+        "min": 85,
+        "median": 85,
+        "max": 170
+      },
+      "duration": 110.11764705882352,
+      "scratch": true,
+      "keys": "5K",
+      "file": "taso_kaeru.bms"
+    }
+  ],
+  "title": "かえるのがっしょう remix",
+  "artist": "Riutaso",
+  "genre": "NO GENRE",
+  "bpm": 85,
+  "replaygain": "-2.62 dB",
+  "preview_offset": 3,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "33",
+  "readme": ""
+}

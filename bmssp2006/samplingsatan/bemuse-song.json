@@ -1,0 +1,37 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "31e8a961c7d1cd70c3f662f07e1abae8",
+      "info": {
+        "title": "Sampling Satan",
+        "artist": "roop",
+        "genre": "---",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 5
+      },
+      "noteCount": 446,
+      "bpm": {
+        "init": 200,
+        "min": 200,
+        "median": 200,
+        "max": 200
+      },
+      "duration": 87,
+      "scratch": true,
+      "keys": "5K",
+      "file": "ss.bms"
+    }
+  ],
+  "title": "Sampling Satan",
+  "artist": "roop",
+  "genre": "---",
+  "bpm": 200,
+  "replaygain": "-12.4 dB",
+  "preview_offset": 1,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "27",
+  "readme": ""
+}

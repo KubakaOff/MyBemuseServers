@@ -1,0 +1,137 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "a64436adb6fa12ad15b28c4bb697c809",
+      "info": {
+        "title": "雪月夜鐘",
+        "artist": "guna",
+        "genre": "fantasia",
+        "subtitles": [
+          "ANOTHER14"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 9
+      },
+      "noteCount": 705,
+      "bpm": {
+        "init": 120,
+        "min": 120,
+        "median": 120,
+        "max": 120
+      },
+      "duration": 151.83333333333334,
+      "scratch": true,
+      "keys": "14K",
+      "file": "rickytick_bell_14a.bme"
+    },
+    {
+      "md5": "689dfb729021eebce7db16f33c45ad20",
+      "info": {
+        "title": "雪月夜鐘",
+        "artist": "guna",
+        "genre": "fantasia",
+        "subtitles": [
+          "14KEYS"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 6
+      },
+      "noteCount": 462,
+      "bpm": {
+        "init": 120,
+        "min": 120,
+        "median": 120,
+        "max": 120
+      },
+      "duration": 151.83333333333334,
+      "scratch": false,
+      "keys": "14K",
+      "file": "rickytick_bell_14n.bme"
+    },
+    {
+      "md5": "d4a59f3995ede718c630c54c3c9f134d",
+      "info": {
+        "title": "雪月夜鐘",
+        "artist": "guna",
+        "genre": "fantasia",
+        "subtitles": [
+          "another"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 6
+      },
+      "noteCount": 928,
+      "bpm": {
+        "init": 120,
+        "min": 120,
+        "median": 120,
+        "max": 120
+      },
+      "duration": 151.83333333333334,
+      "scratch": true,
+      "keys": "7K",
+      "file": "rickytick_bell_7a.bme"
+    },
+    {
+      "md5": "f4dc458caaade21c4fdca82af8bc9327",
+      "info": {
+        "title": "雪月夜鐘",
+        "artist": "guna",
+        "genre": "fantasia",
+        "subtitles": [
+          "light"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 2
+      },
+      "noteCount": 262,
+      "bpm": {
+        "init": 120,
+        "min": 120,
+        "median": 120,
+        "max": 120
+      },
+      "duration": 151.83333333333334,
+      "scratch": true,
+      "keys": "7K",
+      "file": "rickytick_bell_7l.bme"
+    },
+    {
+      "md5": "a1192e4f8d2e175e42309ed2fee7591c",
+      "info": {
+        "title": "雪月夜鐘",
+        "artist": "guna",
+        "genre": "fantasia",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 4
+      },
+      "noteCount": 614,
+      "bpm": {
+        "init": 120,
+        "min": 120,
+        "median": 120,
+        "max": 120
+      },
+      "duration": 151.83333333333334,
+      "scratch": true,
+      "keys": "7K",
+      "file": "rickytick_bell_7n.bme"
+    }
+  ],
+  "title": "雪月夜鐘",
+  "artist": "guna",
+  "genre": "fantasia",
+  "bpm": 120,
+  "replaygain": "-11.07 dB",
+  "preview_offset": 2,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "25",
+  "readme": ""
+}

@@ -1,0 +1,112 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "4d1296b68f24393566de8399b63f2c86",
+      "info": {
+        "title": "Till the End of infinity",
+        "artist": "spinai",
+        "genre": "Opening",
+        "subtitles": [
+          "5line"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 5
+      },
+      "noteCount": 493,
+      "bpm": {
+        "init": 130,
+        "min": 40,
+        "median": 130,
+        "max": 130
+      },
+      "duration": 156.05620719859849,
+      "scratch": true,
+      "keys": "5K",
+      "file": "_5.bms"
+    },
+    {
+      "md5": "2a52af634742a33edacc6fb1437371d3",
+      "info": {
+        "title": "Till the End of infinity",
+        "artist": "spinai",
+        "genre": "Opening",
+        "subtitles": [
+          "DP"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 6
+      },
+      "noteCount": 362,
+      "bpm": {
+        "init": 130,
+        "min": 40,
+        "median": 130,
+        "max": 130
+      },
+      "duration": 156.05620719859849,
+      "scratch": true,
+      "keys": "10K",
+      "file": "_5_dp.bms"
+    },
+    {
+      "md5": "60e807dc600872f8f85bfdaa7028bc20",
+      "info": {
+        "title": "Till the End of infinity",
+        "artist": "spinai",
+        "genre": "Opening",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 4
+      },
+      "noteCount": 412,
+      "bpm": {
+        "init": 130,
+        "min": 40,
+        "median": 130,
+        "max": 130
+      },
+      "duration": 156.05620719859849,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_7.bme"
+    },
+    {
+      "md5": "0fbee11bba4ae8f88d7deb056e44f78d",
+      "info": {
+        "title": "Till the End of infinity",
+        "artist": "spinai",
+        "genre": "Opening",
+        "subtitles": [
+          "another"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 6
+      },
+      "noteCount": 731,
+      "bpm": {
+        "init": 130,
+        "min": 40,
+        "median": 130,
+        "max": 130
+      },
+      "duration": 156.05620719859849,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_7_ano.bme"
+    }
+  ],
+  "title": "Till the End of infinity",
+  "artist": "spinai",
+  "genre": "Opening",
+  "bpm": 130,
+  "replaygain": "-14.38 dB",
+  "preview_offset": 6,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "29",
+  "readme": ""
+}

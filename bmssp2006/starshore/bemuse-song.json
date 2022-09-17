@@ -1,0 +1,37 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "157f891fd3ddea4cbd42f1e02ce15cb8",
+      "info": {
+        "title": "starshore",
+        "artist": "warabi",
+        "genre": "fairytale",
+        "subtitles": [],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 4
+      },
+      "noteCount": 391,
+      "bpm": {
+        "init": 158,
+        "min": 158,
+        "median": 158,
+        "max": 158
+      },
+      "duration": 173.54430379746836,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_7.bme"
+    }
+  ],
+  "title": "starshore",
+  "artist": "warabi",
+  "genre": "fairytale",
+  "bpm": 158,
+  "replaygain": "-8.78 dB",
+  "preview_offset": 1,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "30",
+  "readme": ""
+}

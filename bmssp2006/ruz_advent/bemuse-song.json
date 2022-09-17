@@ -1,0 +1,89 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "97397e65a8145667f5dadbc52a0d59da",
+      "info": {
+        "title": "アドベントの風に吹かれて",
+        "artist": "RUZEEA",
+        "genre": "Blue Grass",
+        "subtitles": [
+          "5keys"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 5
+      },
+      "noteCount": 342,
+      "bpm": {
+        "init": 145,
+        "min": 145,
+        "median": 145,
+        "max": 145
+      },
+      "duration": 72.41379310344828,
+      "scratch": false,
+      "keys": "5K",
+      "file": "5.bms"
+    },
+    {
+      "md5": "56d44565a6a4d0bbb5b5df595b47e911",
+      "info": {
+        "title": "アドベントの風に吹かれて",
+        "artist": "RUZEEA",
+        "genre": "Blue Grass",
+        "subtitles": [
+          "5keys Hard"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 7
+      },
+      "noteCount": 588,
+      "bpm": {
+        "init": 145,
+        "min": 145,
+        "median": 145,
+        "max": 145
+      },
+      "duration": 72.41379310344828,
+      "scratch": false,
+      "keys": "5K",
+      "file": "5h.bms"
+    },
+    {
+      "md5": "a4a448429cf0307945a0cdd4bd2214e9",
+      "info": {
+        "title": "アドベントの風に吹かれて",
+        "artist": "RUZEEA",
+        "genre": "Blue Grass",
+        "subtitles": [
+          "7keys"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 7
+      },
+      "noteCount": 515,
+      "bpm": {
+        "init": 145,
+        "min": 145,
+        "median": 145,
+        "max": 145
+      },
+      "duration": 72.41379310344828,
+      "scratch": false,
+      "keys": "7K",
+      "file": "7.bme"
+    }
+  ],
+  "title": "アドベントの風に吹かれて",
+  "artist": "RUZEEA",
+  "genre": "Blue Grass",
+  "bpm": 145,
+  "replaygain": "-6.23 dB",
+  "preview_offset": 2,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "26",
+  "readme": ""
+}

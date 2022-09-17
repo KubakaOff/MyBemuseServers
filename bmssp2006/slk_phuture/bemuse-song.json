@@ -1,0 +1,64 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "9cd7629d936ff96f7fee8bf08fba611c",
+      "info": {
+        "title": "phuture",
+        "artist": "nixx (remix : Spelunker걂",
+        "genre": "TECHNO/Nu-NRG",
+        "subtitles": [
+          "SLK-recycle-mix / LIGHT"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 7
+      },
+      "noteCount": 1309,
+      "bpm": {
+        "init": 160,
+        "min": 160,
+        "median": 160,
+        "max": 160
+      },
+      "duration": 147,
+      "scratch": true,
+      "keys": "7K",
+      "file": "phuture-rmx-light.bme"
+    },
+    {
+      "md5": "f92af1a7373da1d2f024a51e57112922",
+      "info": {
+        "title": "phuture",
+        "artist": "nixx (remix : Spelunker걂",
+        "genre": "TECHNO/Nu-NRG",
+        "subtitles": [
+          "SLK-recycle-mix"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 9
+      },
+      "noteCount": 1677,
+      "bpm": {
+        "init": 160,
+        "min": 160,
+        "median": 160,
+        "max": 160
+      },
+      "duration": 147,
+      "scratch": true,
+      "keys": "7K",
+      "file": "phuture-rmx.bme"
+    }
+  ],
+  "title": "phuture",
+  "artist": "nixx (remix : Spelunker걂",
+  "genre": "TECHNO/Nu-NRG",
+  "bpm": 160,
+  "replaygain": "-5.53 dB",
+  "preview_offset": 1,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "28",
+  "readme": ""
+}

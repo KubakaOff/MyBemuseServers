@@ -1,0 +1,139 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "f1fcd4031c4578bfa55ab82ac3f37b7a",
+      "info": {
+        "title": "Bird Sprite -D.K.R. mix-",
+        "artist": "ツナマヨちゃんとか",
+        "genre": "木工ボンドオブジェ",
+        "subtitles": [
+          "5keys Easy"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 3
+      },
+      "noteCount": 320,
+      "bpm": {
+        "init": 146,
+        "min": 146,
+        "median": 146,
+        "max": 146
+      },
+      "duration": 134.7945205479452,
+      "scratch": true,
+      "keys": "5K",
+      "file": "bs_5e.bme"
+    },
+    {
+      "md5": "eebaa86d5605722f25b6e002b8842731",
+      "info": {
+        "title": "Bird Sprite -D.K.R. mix-",
+        "artist": "ツナマヨちゃん と 石鹸くん",
+        "genre": "木工ボンドオブジェ",
+        "subtitles": [
+          "5keys"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 6
+      },
+      "noteCount": 587,
+      "bpm": {
+        "init": 146,
+        "min": 146,
+        "median": 146,
+        "max": 146
+      },
+      "duration": 134.7945205479452,
+      "scratch": true,
+      "keys": "5K",
+      "file": "bs_5n.bms"
+    },
+    {
+      "md5": "31aa4a488d1b718dbea13313846e9b40",
+      "info": {
+        "title": "Bird Sprite -D.K.R. mix-",
+        "artist": "ツナマヨちゃん",
+        "genre": "木工ボンドオブジェ",
+        "subtitles": [
+          "7keys"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 6
+      },
+      "noteCount": 770,
+      "bpm": {
+        "init": 146,
+        "min": 146,
+        "median": 146,
+        "max": 146
+      },
+      "duration": 134.7945205479452,
+      "scratch": true,
+      "keys": "7K",
+      "file": "bs_7.bme"
+    },
+    {
+      "md5": "a9aa041c81c5e273b0f26b7118d8b76e",
+      "info": {
+        "title": "Bird Sprite -D.K.R. mix-",
+        "artist": "ツナマヨちゃん",
+        "genre": "木工ボンドオブジェ",
+        "subtitles": [
+          "another"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 9
+      },
+      "noteCount": 986,
+      "bpm": {
+        "init": 146,
+        "min": 146,
+        "median": 146,
+        "max": 146
+      },
+      "duration": 134.7945205479452,
+      "scratch": true,
+      "keys": "7K",
+      "file": "bs_7a.bme"
+    },
+    {
+      "md5": "3b0ce0e8cede04f8e7f07ef864d5d143",
+      "info": {
+        "title": "Bird Sprite -D.K.R. mix-",
+        "artist": "ツナマヨちゃんとか",
+        "genre": "木工ボンドオブジェ",
+        "subtitles": [
+          "7keys Light"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 3
+      },
+      "noteCount": 320,
+      "bpm": {
+        "init": 146,
+        "min": 146,
+        "median": 146,
+        "max": 146
+      },
+      "duration": 134.7945205479452,
+      "scratch": true,
+      "keys": "7K",
+      "file": "bs_7l.bme"
+    }
+  ],
+  "title": "Bird Sprite -D.K.R. mix-",
+  "artist": "ツナマヨちゃんとか",
+  "genre": "木工ボンドオブジェ",
+  "bpm": 146,
+  "replaygain": "-9.23 dB",
+  "preview_offset": 1,
+  "preview_url": "bemuse-data/preview.mp3",
+  "bmssearch_id": "34",
+  "readme": ""
+}
